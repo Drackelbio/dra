@@ -1,0 +1,2 @@
+drap/admin.py:1: [E] PYFLAKES:'django.contrib.admin' imported but unused
+drap/views.py:1: [E] PYFLAKES:'django.shortcuts.render' imported but unused

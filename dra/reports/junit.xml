@@ -1,0 +1,1 @@
+<testsuite errors="0" failures="0" name="Django Project Tests" skips="0" tests="1" time="0.007"><testcase classname="drap.tests.CompraTestCase" name="test_compras_can_speak" time="0.005244" /></testsuite>
